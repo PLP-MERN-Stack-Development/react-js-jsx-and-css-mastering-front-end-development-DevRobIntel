@@ -24,8 +24,9 @@ This is a responsive React application built with Vite, Tailwind CSS, and React 
 
 ## Screenshots
 
-![1761077216023](image/README/1761077216023.png)
-![1761077270676](image/README/1761077270676.png)
+![1761078352352](image/README/1761078352352.png)
+
+![1761078382792](image/README/1761078382792.png)
 
 ## Deployed URL
 
