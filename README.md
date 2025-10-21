@@ -24,10 +24,9 @@ This is a responsive React application built with Vite, Tailwind CSS, and React 
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![API Page](screenshots/api.png)
-![Dark Mode](screenshots/dark-mode.png)
+![1761077216023](image/README/1761077216023.png)
+![1761077270676](image/README/1761077270676.png)
 
 ## Deployed URL
 
-[View Live Demo](https://your-deployed-url-here.vercel.app)
+https://plp-task-manager-assignment-nai5-ll8leuglj.vercel.app/
