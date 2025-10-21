@@ -1,70 +1,33 @@
-# React.js and Tailwind CSS Assignment
+# PLP Task Manager
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+This is a responsive React application built with Vite, Tailwind CSS, and React Router. It demonstrates component architecture, state management with hooks, API integration, and responsive styling.
 
-## Assignment Overview
+## Setup Instructions
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
-
-## Getting Started
-
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
+1. Make sure you have Node.js installed (v18 or higher recommended).
+2. Clone the repository.
 3. Install dependencies:
-   ```
-   npm install
-   ```
 4. Start the development server:
-   ```
-   npm run dev
-   ```
 
-## Files Included
+## Features
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+- Reusable components: Button, Card, Navbar, Footer
+- Layout component with Navbar and Footer
+- Task Manager with add, complete, delete, filter functionality
+- LocalStorage persistence for tasks
+- Theme switcher (light/dark mode)
+- API integration with JSONPlaceholder (posts)
+- Loading and error handling for API
+- Pagination and search for API data
+- Responsive design for mobile, tablet, desktop
+- Transitions and animations for interactive elements
 
-## Requirements
+## Screenshots
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+![Home Page](screenshots/home.png)
+![API Page](screenshots/api.png)
+![Dark Mode](screenshots/dark-mode.png)
 
-## Project Structure
+## Deployed URL
 
-```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
-```
-
-## Submission
-
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
-
-## Resources
-
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+[View Live Demo](https://your-deployed-url-here.vercel.app)
