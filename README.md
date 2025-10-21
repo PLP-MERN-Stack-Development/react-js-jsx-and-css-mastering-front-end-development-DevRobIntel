@@ -1,4 +1,4 @@
-# PLP Task Manager
+# PLP Task Manager - Week 3 Assignment
 
 This is a responsive React application built with Vite, Tailwind CSS, and React Router. It demonstrates component architecture, state management with hooks, API integration, and responsive styling.
 
